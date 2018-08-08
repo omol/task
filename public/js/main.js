@@ -1,6 +1,6 @@
 var offset = 0;
 var limit = 811;
-var geturl = "http://www.pokeapi.co/api/v2/pokemon/?offset=" + offset + "&limit=" + limit;
+var geturl = "https://www.pokeapi.co/api/v2/pokemon/?offset=" + offset + "&limit=" + limit;
 var pockemons = [];
 var focusNumber = -1;
 
